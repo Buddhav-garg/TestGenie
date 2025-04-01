@@ -95,12 +95,6 @@ Modify `test_generator.py` to change the input requirements for test case genera
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🌟 Contributions
 
 Want to contribute? Feel free to fork the repository and submit a pull request!
