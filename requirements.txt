@@ -1,0 +1,4 @@
+openai
+selenium
+flask
+webdriver-manager
