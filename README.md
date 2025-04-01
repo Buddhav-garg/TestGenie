@@ -103,7 +103,7 @@ Want to contribute? Feel free to fork the repository and submit a pull request!
 
 ## 📧 Contact
 
-For questions or collaboration, reach out at [**your.email@example.com**](mailto\:your.email@example.com)
+For questions or collaboration, reach out at [**buddhavgarg.31@gmail.com**](mailto\:buddhavgarg.31@gmail.com)
 
 ---
 
